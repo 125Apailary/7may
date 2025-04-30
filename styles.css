@@ -7,7 +7,10 @@ html{
     scroll-behavior: smooth;
 }
 body {
-    background-color: #213448;
+    background-image: url(assets/img/aaa1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -92,7 +95,7 @@ header{
     margin-top: 100px;
 }
 .shakiru{
-    background-color: #547792 ;
+    background-image: url(assets/img/aaa.jpeg) ;
     background-size: cover; /* Ensure the background fits the screen */
     background-position: center;
     display: flex;
