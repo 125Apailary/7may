@@ -7,7 +7,7 @@ html{
     scroll-behavior: smooth;
 }
 body {
-    background-image: url(assets/img/U4.png);
+    background-image: url(assets/img/5.png);
     background-size: cover; /* Ensure the background fits the screen */
     background-position: center;
     flex-wrap: wrap;
