@@ -8,10 +8,8 @@ html{
 }
 body {
     background-image: url(assets/img/aaaa.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; /* Ensure the background fits the screen */
     background-position: center;
-    display: flex;
     flex-wrap: wrap;
     min-height: 100vh;
     display: flex;
