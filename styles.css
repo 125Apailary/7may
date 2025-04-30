@@ -7,7 +7,7 @@ html{
     scroll-behavior: smooth;
 }
 body {
-    background-image: url(assets/img/aaa1.jpeg);
+    background-image: url(assets/img/aaaa.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -97,7 +97,7 @@ header{
     margin-top: 100px;
 }
 .shakiru{
-    background-image: url(assets/img/aaa.jpeg) ;
+    background-image: url(assets/img/aa.png) ;
     background-size: cover; /* Ensure the background fits the screen */
     background-position: center;
     display: flex;
