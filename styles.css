@@ -10,12 +10,13 @@ body {
     background-image: url(assets/img/U4.png);
     background-size: cover; /* Ensure the background fits the screen */
     background-position: center;
-    display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     align-items: center;
-    padding: 20px;
-}
+    justify-content: center;
+
 a{
     text-decoration: none;
     color: white;
